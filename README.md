@@ -23,8 +23,6 @@ ppt/
   calendar_bot_new/                슬라이드 이미지(슬라이드1~23.PNG)
   calendar_bot.pdf                 발표 자료 PDF
   캡처/                            실제 화면 캡처(홈, 달력, 통계)
-ppt 디자인/                        발표 자료 디자인 참고 템플릿
-ppt_sample/                        샘플 발표 자료
 ```
 
 ## 명세서 (서류/calendar_bot 명세서 모음.xlsx)
