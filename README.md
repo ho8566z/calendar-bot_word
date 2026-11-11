@@ -55,7 +55,18 @@ ppt_sample/                        샘플 발표 자료
 
 ## 발표 자료
 
-`ppt/calendar_bot_new.pptx`(23장)에 프로젝트 소개, 기능, 구성, 구현 결과를 정리했습니다. PDF와 슬라이드 이미지는 같은 내용을 다른 형식으로 둔 것입니다.
+`ppt/calendar_bot_new.pptx`(23장)에 프로젝트 소개, 기능, 구성, 구현 결과를 정리했습니다. PDF(`ppt/calendar_bot.pdf`)와 슬라이드 이미지는 같은 내용을 다른 형식으로 둔 것입니다.
+
+<table>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드1.PNG" alt="슬라이드 1" width="100%"><br><sub>1</sub></td><td><img src="ppt/calendar_bot_new/슬라이드2.PNG" alt="슬라이드 2" width="100%"><br><sub>2</sub></td><td><img src="ppt/calendar_bot_new/슬라이드3.PNG" alt="슬라이드 3" width="100%"><br><sub>3</sub></td></tr>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드4.PNG" alt="슬라이드 4" width="100%"><br><sub>4</sub></td><td><img src="ppt/calendar_bot_new/슬라이드5.PNG" alt="슬라이드 5" width="100%"><br><sub>5</sub></td><td><img src="ppt/calendar_bot_new/슬라이드6.PNG" alt="슬라이드 6" width="100%"><br><sub>6</sub></td></tr>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드7.PNG" alt="슬라이드 7" width="100%"><br><sub>7</sub></td><td><img src="ppt/calendar_bot_new/슬라이드8.PNG" alt="슬라이드 8" width="100%"><br><sub>8</sub></td><td><img src="ppt/calendar_bot_new/슬라이드9.PNG" alt="슬라이드 9" width="100%"><br><sub>9</sub></td></tr>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드10.PNG" alt="슬라이드 10" width="100%"><br><sub>10</sub></td><td><img src="ppt/calendar_bot_new/슬라이드11.PNG" alt="슬라이드 11" width="100%"><br><sub>11</sub></td><td><img src="ppt/calendar_bot_new/슬라이드12.PNG" alt="슬라이드 12" width="100%"><br><sub>12</sub></td></tr>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드13.PNG" alt="슬라이드 13" width="100%"><br><sub>13</sub></td><td><img src="ppt/calendar_bot_new/슬라이드14.PNG" alt="슬라이드 14" width="100%"><br><sub>14</sub></td><td><img src="ppt/calendar_bot_new/슬라이드15.PNG" alt="슬라이드 15" width="100%"><br><sub>15</sub></td></tr>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드16.PNG" alt="슬라이드 16" width="100%"><br><sub>16</sub></td><td><img src="ppt/calendar_bot_new/슬라이드17.PNG" alt="슬라이드 17" width="100%"><br><sub>17</sub></td><td><img src="ppt/calendar_bot_new/슬라이드18.PNG" alt="슬라이드 18" width="100%"><br><sub>18</sub></td></tr>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드19.PNG" alt="슬라이드 19" width="100%"><br><sub>19</sub></td><td><img src="ppt/calendar_bot_new/슬라이드20.PNG" alt="슬라이드 20" width="100%"><br><sub>20</sub></td><td><img src="ppt/calendar_bot_new/슬라이드21.PNG" alt="슬라이드 21" width="100%"><br><sub>21</sub></td></tr>
+<tr><td><img src="ppt/calendar_bot_new/슬라이드22.PNG" alt="슬라이드 22" width="100%"><br><sub>22</sub></td><td><img src="ppt/calendar_bot_new/슬라이드23.PNG" alt="슬라이드 23" width="100%"><br><sub>23</sub></td></tr>
+</table>
 
 ## 작성자
 
